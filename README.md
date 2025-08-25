@@ -185,5 +185,3 @@ Expected Questions and Probable Answers
 6. Q: What is the distance between Earth and Mars?
    A: Gemini provides an approximate factual answer (example: Average 225 million km)
 
-
-Would you like me to also add **example log entries (JSON snippets)** from each level into this README so your submission looks more complete?
